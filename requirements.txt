@@ -1,0 +1,12 @@
+python-dotenv
+google-generativeai
+python-dotenv
+langgraph
+langchain_google_genai
+langchain_community
+langgraph-cli[inmem]
+mcp
+langchain-mcp-adapters
+faiss-cpu
+sentence-transformers
+numpy
